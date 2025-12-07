@@ -1,0 +1,6 @@
+{
+  "task_type": "arcface",
+  "input_size": [112, 112],
+  "model": "arcface.onnx",
+  "version":1
+}
